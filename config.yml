@@ -3,6 +3,16 @@ languageCode: en-au
 title: Demo hugo
 theme: PaperMod
 params:
+  homeInfoParams:
+    Title: "Zackuu Portfolio"
+    Content: Welcome to my portfolio.
+  socialIcons:
+    - name: facebook
+      url: "https://facebook.com"
+    - name: twitter
+      url: "https://twitter.com"
+    - name: github
+      url: "https://github.com"
   cover:
     LinkFullImages: true
 
